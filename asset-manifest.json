@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/bugil_business_page/static/css/main.0262185c.css",
-    "main.js": "/bugil_business_page/static/js/main.515fb1d5.js",
+    "main.css": "/bugil_business_page/static/css/main.c406d78a.css",
+    "main.js": "/bugil_business_page/static/js/main.0a406087.js",
     "static/media/Paperlogy-1Thin.ttf": "/bugil_business_page/static/media/Paperlogy-1Thin.ee313abc31e0d9ea22db.ttf",
     "static/media/Paperlogy-4Regular.ttf": "/bugil_business_page/static/media/Paperlogy-4Regular.3f9b448bfc4e1c72585f.ttf",
     "static/media/Paperlogy-6SemiBold.ttf": "/bugil_business_page/static/media/Paperlogy-6SemiBold.ccae5d3b3bb3e0b60c45.ttf",
     "static/media/Paperlogy-9Black.ttf": "/bugil_business_page/static/media/Paperlogy-9Black.619ffedf0bf3a9677fb8.ttf",
     "index.html": "/bugil_business_page/index.html",
-    "main.0262185c.css.map": "/bugil_business_page/static/css/main.0262185c.css.map",
-    "main.515fb1d5.js.map": "/bugil_business_page/static/js/main.515fb1d5.js.map"
+    "main.c406d78a.css.map": "/bugil_business_page/static/css/main.c406d78a.css.map",
+    "main.0a406087.js.map": "/bugil_business_page/static/js/main.0a406087.js.map"
   },
   "entrypoints": [
-    "static/css/main.0262185c.css",
-    "static/js/main.515fb1d5.js"
+    "static/css/main.c406d78a.css",
+    "static/js/main.0a406087.js"
   ]
 }
